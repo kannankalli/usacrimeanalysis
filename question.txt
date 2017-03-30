@@ -1,0 +1,4 @@
+1.Write a mapreduce/pig program to calculate the number of cases investigated under each FBI code
+2.Write a mapreduce/pig program to calculate the number of cases investigated under FBI code 32.
+3.Write a mapreduce/pig program to calculate the number of arrests in theft district wise.
+4.Write a mapreduce/pig program to calculate the number of arrests done between october 2014 and october 2015.

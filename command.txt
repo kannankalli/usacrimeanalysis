@@ -1,0 +1,4 @@
+pig -x mapreduce casecountbyfbicode.pig
+pig -x mapreduce countcasesunderfbicode32.pig
+pig -x mapreduce noofarrestsbydistrictwise.pig
+pig -x mapreduce noofarrestsbw20142015.pig
